@@ -18,7 +18,7 @@ public class StudiKasus130 {
         uangBayar = sc.nextInt();
         totalHarga = jumlahCup * hargaPerCup;
         diskon = 0;
-        if (totalHarga >= 100000) { // sesuai jobsheet
+        if (totalHarga >= 80000) { // Sebelumnya 100.000 di ganti dengan nilai unik
             diskon = totalHarga * 5 / 100;
         }
         totalBayar = totalHarga - diskon;
