@@ -1,29 +1,39 @@
-Ini adalah repository pertama saya
-Nama : Zidan Mubarok  
-NIM : 264107020061
-KELAS : TI - 1E
+# 📂 Repositori Tugas & Studi Kasus Metkul Prakdaspro P7
 
+## 👨‍💻 Identitas Mahasiswa
 
-Hasil Uji Studi Kasus 2 oleh Zidan
+* **Nama:** Zidan Mubarok
+* **NIM:** 264107020061
+* **Kelas:** TI - 1E
+* **No. Presensi:** 30
+
+---
+
+## ⚙️ Kustomisasi Parameter (Berdasarkan No. Presensi)
+
+Berikut adalah penyesuaian nilai parameter pada studi kasus berdasarkan nomor presensi saya (`30`):
+
+* **Harga per Cup:** **Rp15.000** *(Menggantikan Rp18.000 pada flowchart standar)*
+  * *Rumus:* 15000 + (30 mod 6) × 1000 = 15.000
+* **Syarat Minimal Belanja Diskon:** **Rp80.000** *(Menggantikan Rp100.000 pada flowchart standar)*
+  * *Rumus:* 80000 + (30 mod 5) × 10000 = 80.000
+* **Persentase Diskon:** **5%** *(Menggantikan 10% pada flowchart standar)*
+  * *Rumus:* 5 + (30 mod 6)% = 5%
+
+---
+
+## 📊 Hasil Uji Studi Kasus 2
+
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
-|----|-------|---------|------------|---------|---------|
+| :-: | :--- | :---: | :---: | :---: | :---: |
 | 1 | BELMAWA | 4 | 1 | Berhak | Ya |
-| 1 | BAKORMA | 3 | 1 | Tidak | Ya |
-| 1 | Mandiri | .. | 0(tidak juara) | Tidak | Ya |
-| 1 | PKM | 4 | 1(lolos) | Berhak | Ya |
+| 2 | BAKORMA | 3 | 1 | Tidak | Ya |
+| 3 | Mandiri | - | 0 (Tidak Juara) | Tidak | Ya |
+| 4 | PKM | 4 | 1 (Lolos) | Berhak | Ya |
 
-Penguji:
-Nama : Ostha 
-Absen :24
+---
 
-Hasil Uji Studi Kasus 2 oleh Ostha
-| No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
-|----|-------|---------|------------|---------|---------|
-| 1 | PKM | 4 | 1/True | Berhak | Ya |
-| 2 | Mandiri | 4 | 0(Tidak Juara) | Tidak | Ya |
-| 3 | Lainnya | 4 | .. | Tidak | Ya |
-| 4 | BELMAWA | 4 | 1 | Berhak | Ya |
+## 📝 Catatan Pengujian
 
-Penguji
-Nama : Zidan Mubarok
-Absen : 30
+* **Nama Penguji:** Ostha
+* **No. Absen Penguji:** 24
