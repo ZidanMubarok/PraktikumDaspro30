@@ -12,7 +12,18 @@ Hasil Uji Studi Kasus 2 oleh Zidan
 | 1 | Mandiri | .. | 0(tidak juara) | Tidak | Ya |
 | 1 | PKM | 4 | 1(lolos) | Berhak | Ya |
 
-
 Penguji:
 Nama : Ostha 
 Absen :24
+
+Hasil Uji Studi Kasus 2 oleh Ostha
+| No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
+|----|-------|---------|------------|---------|---------|
+| 1 | PKM | 4 | 1/True | Berhak | Ya |
+| 2 | Mandiri | 4 | 0(Tidak Juara) | Tidak | Ya |
+| 3 | Lainnya | 4 | .. | Tidak | Ya |
+| 4 | BELMAWA | 4 | 1 | Berhak | Ya |
+
+Penguji
+Nama : Zidan Mubarok
+Absen : 30
